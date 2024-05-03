@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "141167963802",
+    "project_id": "agricadec",
+    "storage_bucket": "agricadec.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:141167963802:android:f4bb8d80bed6f2e592b923",
+        "android_client_info": {
+          "package_name": "com.example.agricapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDFh7b_WAWHNYC49BRFAnXSG7mE_0Jeu8Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
